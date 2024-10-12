@@ -10,7 +10,7 @@ Data Exploration and Visualization:
     likes, comments, shares, and saves.
  >  Summarize the key insights derived from the analysis of Instagram posts. Discuss potential strategies for improving post reach and engagement. Provide recommendations for optimizing content based on data-driven insights.
 
-Getting Started:
+
  > Clone or download this repository to access the project files.
  > Use Jupyter Notebooks to follow along with the step-by-step data analysis.
  > Explore the dataset in the "data" folder, and run Python scripts to generate visualizations and insights.
