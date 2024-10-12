@@ -4,11 +4,11 @@ Welcome to the GitHub repository for our Instagram Reach Analysis Project! This 
 Features:
 
 Data Exploration and Visualization:
- > Dive deep into the origins of impressions from various sources like home feed, hashtags, and explore page.Explore the distribution of likes, comments, shares, and saves across posts.Visualize user engagement with captivating word 
-   clouds, pie charts, and scatter plots.
- > Investigate trends in post reach and user engagement to identify the factors driving audience interaction.Analyze how impressions from hashtags and explore impact post performanceIdentify the relationship between impressions and 
-   likes, comments, shares, and saves.
- > Summarize the key insights derived from the analysis of Instagram posts.Discuss potential strategies for improving post reach and engagement.Provide recommendations for optimizing content based on data-driven insights.
+ >  Dive deep into the origins of impressions from various sources like home feed, hashtags, and explore page. Explore the distribution of likes, comments, shares, and saves across posts. Visualize user engagement with captivating word 
+    clouds, pie charts, and scatter plots.
+ >  Investigate trends in post reach and user engagement to identify the factors driving audience interaction. Analyze how impressions from hashtags and explore impact post performanceIdentify the relationship between impressions and 
+    likes, comments, shares, and saves.
+ >  Summarize the key insights derived from the analysis of Instagram posts. Discuss potential strategies for improving post reach and engagement. Provide recommendations for optimizing content based on data-driven insights.
 
 Getting Started:
  > Clone or download this repository to access the project files.
